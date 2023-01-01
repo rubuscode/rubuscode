@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **StormClicker, but i don't have a lot of time to continue this project.**
 
-- 🌱 I’m currently learning **C#, C++, and Website languages (PHP / CSS)**
+- 🌱 I’m currently learning **C#, and Website languages (PHP / CSS)**
 
 - 📫 How to reach me **On my discord! https://discord.gg/3d47pES7**
 

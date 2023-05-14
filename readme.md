@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, and Website languages (PHP / CSS)**
 
-- 📫 How to reach me? **On my discord! https://discord.gg/3d47pES7**
+- 📫 How to reach me? **On my discord! https://discord.gg/h97jDsMB28**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

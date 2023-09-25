@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm rubus</h1>
 <h3 align="center">Beginner C#, Rust, and C++ Developer from Poland</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jedziemy&label=Profile%20views&color=0e75b6&style=flat" alt="rubuscode" /> </p>
 
 <h1>Languages and Tools</h1>
 <p align="center">
@@ -10,6 +9,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jedzius&show_icons=true&theme=tokyonight" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jedzius&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rubuscode&show_icons=true&theme=tokyonight" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubuscode&theme=tokyonight&hide_border=true" />
 </div>

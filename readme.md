@@ -4,6 +4,6 @@
 <h1>Languages and Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gradle,unity,idea,visualstudio,java,cs,cpp,dotnet,javascript,kotlin,rust,mysql&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=github,gradle,unity,idea,visualstudio,java,cs,cpp,dotnet,javascript,php,kotlin,rust,mysql&perline=7"/>
   </a>
 </p>

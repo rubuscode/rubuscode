@@ -6,7 +6,7 @@
   <a href="https://youtube.com/rubjiasty">
     <img src="https://skillicons.dev/icons?i=github,gradle,unity,idea,visualstudio,mysql,cs,cpp,dotnet,javascript,php,kotlin,rust,java&perline=7"/>
   </a>
-</p>
+</p> <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rubuscode&show_icons=true&theme=tokyonight" /> 

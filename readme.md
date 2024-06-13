@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rubus</h1>
-<h3 align="center">Beginner C#, Rust, and C++ Developer from Poland</h3>
+<h3 align="center">Young C++, Rust Backend Developer from Poland</h3>
 
 <h1>Languages and Tools</h1>
 <p align="center">
